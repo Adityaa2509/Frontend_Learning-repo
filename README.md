@@ -3,5 +3,5 @@
 HTML:- Complete tags ,elements,attributes,etc.
 CSS:- vanilaa css
 Bootstrap:-
-Js
+Js:- javascript
 React Js:-
